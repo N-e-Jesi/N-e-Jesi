@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning full stack web development & web designing
 - 💞️ I’m looking to collaborate on a project using GitHub
 - 📫 How to reach me https://www.linkedin.com/in/n-e-jesi-8647a220a/
-- ⚡ Fun fact: game of chess ♞ ♖
+- ⚡ Fun fact: game of Chess ♞ ♖
+- 🎯 Focus: Start where you are. Use what you have. Do what you can.
 
 <!---
 N-e-Jesi/N-e-Jesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
